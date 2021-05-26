@@ -6,7 +6,7 @@ Why mine BTC with ASIC when you can mine BY HAND?
 
 This project is a Flutter application that interacts directly with the bitcoin blockchain through JSON_RPC.
 
-open up a bitcoin daemon and set you rpc config in `lib/utils/ENV_VARS.dart`.
+open up a bitcoin daemon and set your rpc config in `lib/utils/ENV_VARS.dart`.
 
 run and guess a nonce.
 
