@@ -15,7 +15,7 @@ run and guess a nonce.
 Profit??
 
 ## Screenshots
-![initscreen](Screenshots/onload.png)
-![guess](Screenshots/guess.png)
-![addaddress](Screenshots/addaddress.png)
-![savedaddresses](Screenshots/savedaddresses.png)
+<img src="Screenshots/onload.png" width="200">
+<img src="Screenshots/guess.png" width="200">
+<img src="Screenshots/addaddress.png" width="200">
+<img src="Screenshots/savedaddresses.png" width="200">
